@@ -1,0 +1,38 @@
+body {
+    font-family: 'Signika', sans-serif;
+}
+header {
+background-color: #fffbf0 ;
+}
+
+.buy-icon-size {
+    height: 15px;
+    width: auto;
+}
+
+.btn-color {
+    background-color: #a4bc46;
+}
+
+.categories img {
+    height: 150px;
+    width: auto;
+}
+
+.product-img {
+    border-radius: 30px;
+}
+.icon-size {
+    height: 75px;
+    width: auto;
+}
+.footer {
+    background-color: #a4bc46;
+}
+.footer a {
+    text-decoration: none;
+}
+.social-icon {
+    height: 100px;
+    width: auto;
+}
