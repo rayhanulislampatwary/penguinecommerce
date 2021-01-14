@@ -39,6 +39,9 @@ background-color: #fffbf0 ;
 .service-offer-text {
     color:  #a4bc46;
 }
+.banner-text {
+    font-size: 70px;
+}
 
 @media (min-width: 576px) { 
     .medai {
