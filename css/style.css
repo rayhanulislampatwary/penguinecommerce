@@ -36,3 +36,12 @@ background-color: #fffbf0 ;
     height: 100px;
     width: auto;
 }
+.service-offer-text {
+    color:  #a4bc46;
+}
+
+@media (min-width: 576px) { 
+    .medai {
+        text-align: center;
+    }
+}
